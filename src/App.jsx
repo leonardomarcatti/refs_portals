@@ -1,5 +1,4 @@
 import Player from './components/Player.jsx';
-import React from 'react';
 import TimerChallenge from './components/TimerChallenge.jsx';
 
 const App = () => {

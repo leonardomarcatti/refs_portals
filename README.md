@@ -78,3 +78,4 @@
 
 <h2>👨‍💻 Autor</h2>
 <p>Desenvolvido utilizando React + Vite + pnpm por Leonardo Marcatti da Silva</p>
+
