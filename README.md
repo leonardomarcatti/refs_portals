@@ -77,8 +77,5 @@
 <p>Projeto desenvolvido para fins educacionais.</p>
 
 <h2>👨‍💻 Autor</h2>
-<<<<<<< HEAD
 <p>Desenvolvido utilizando React + Vite + pnpm por Leonardo Marcatti da Silva</p>
-=======
-<p>Desenvolvido utilizando React + Vite + pnpm por Leonardo Marcatti da Silva</p>
->>>>>>> master
+
