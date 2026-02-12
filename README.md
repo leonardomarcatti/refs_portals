@@ -36,23 +36,23 @@
 
 <h2>📂 Estrutura do Projeto</h2>
 
-├── node_modules/ # Dependências do projeto
-├── public/ # Arquivos públicos
-├── src/ # Código-fonte da aplicação
-│ ├── assets/ # Imagens e recursos
-│ ├── components/ # Componentes reutilizáveis
-│ ├── App.css # Estilos principais
-│ ├── App.jsx # Componente raiz
-│ ├── index.css # Estilos globais
-│ └── main.jsx # Ponto de entrada do React
-│
-├── .gitignore
-├── eslint.config.js
-├── index.html # Template base do Vite
-├── package.json # Dependências e scripts
-├── pnpm-lock.yaml # Lockfile do pnpm
-├── vite.config.js # Configuração do Vite
-└── README.md
+├── node_modules/ # Dependências do projeto<br/>
+├── public/ # Arquivos públicos<br/>
+├── src/ # Código-fonte da aplicação<br/>
+│ ├── assets/ # Imagens e recursos<br/>
+│ ├── components/ # Componentes reutilizáveis<br/>
+│ ├── App.css # Estilos principais<br/>
+│ ├── App.jsx # Componente raiz<br/>
+│ ├── index.css # Estilos globais<br/>
+│ └── main.jsx # Ponto de entrada do React<br/>
+│<br/>
+├── .gitignore<br/>
+├── eslint.config.js<br/>
+├── index.html # Template base do Vite<br/>
+├── package.json # Dependências e scripts<br/>
+├── pnpm-lock.yaml # Lockfile do pnpm<br/>
+├── vite.config.js # Configuração do Vite<br/>
+└── README.md<br/>
 
 <h2>🏆 Sistema de Pontuação</h2>
 <p>🎯 Clique muito próximo do tempo final → Pontuação alta</p>
